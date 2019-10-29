@@ -1,0 +1,13 @@
+C:\Users\Администратор\source\repos\ворлкскилс\ворлкскилс\bin\Debug\Database1.mdf
+C:\Users\Администратор\source\repos\ворлкскилс\ворлкскилс\bin\Debug\Database1_log.ldf
+C:\Users\Администратор\source\repos\ворлкскилс\ворлкскилс\bin\Debug\ворлкскилс.exe.config
+C:\Users\Администратор\source\repos\ворлкскилс\ворлкскилс\bin\Debug\ворлкскилс.exe
+C:\Users\Администратор\source\repos\ворлкскилс\ворлкскилс\bin\Debug\ворлкскилс.pdb
+C:\Users\Администратор\source\repos\ворлкскилс\ворлкскилс\obj\Debug\ворлкскилс.Form1.resources
+C:\Users\Администратор\source\repos\ворлкскилс\ворлкскилс\obj\Debug\ворлкскилс.Properties.Resources.resources
+C:\Users\Администратор\source\repos\ворлкскилс\ворлкскилс\obj\Debug\ворлкскилс.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\ворлкскилс\ворлкскилс\obj\Debug\ворлкскилс.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\ворлкскилс\ворлкскилс\obj\Debug\ворлкскилс.exe
+C:\Users\Администратор\source\repos\ворлкскилс\ворлкскилс\obj\Debug\ворлкскилс.pdb
+C:\Users\Администратор\source\repos\ворлкскилс\ворлкскилс\obj\Debug\ворлкскилс.Menu.resources
+C:\Users\Администратор\source\repos\ворлкскилс\ворлкскилс\obj\Debug\ворлкскилс.Menu_ispol.resources
